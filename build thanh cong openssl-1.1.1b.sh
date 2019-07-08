@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#android ndk 20
 ANDROID_NDK=/opt/android-ndk
 OPENSSL_VERSION=1.1.1b
 
